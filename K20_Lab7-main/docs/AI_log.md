@@ -1,0 +1,1 @@
+04/11/2026 | Sắp xếp lại cấu trúc thư mục và hướng dẫn Git | AI gợi ý các lệnh xử lý nhánh và cấu trúc README | Em chọn lọc áp dụng lệnh git push và viết lại README theo ý mình.
